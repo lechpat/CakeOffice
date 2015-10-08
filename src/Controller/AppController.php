@@ -1,6 +1,6 @@
 <?php
 
-namespace Office\Controller;
+namespace CakeOffice\Controller;
 
 use App\Controller\AppController as BaseController;
 
